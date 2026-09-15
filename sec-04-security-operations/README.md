@@ -5,7 +5,7 @@
 > **Keystone Grants Management System (KGMS) does not exist.** The Federal Workforce Development Agency (FWDA) is a fictional federal
 > agency invented for this portfolio. Every organisation, person, system
 > identifier, network address, finding, date and signature on this page is
-> fabricated for training purposes. Nothing here is drawn from any real
+> fabricated for training purposes, with one exception: the author, Nkeiru Sarah Adesida, is a real person. Where her name appears in a scenario role, that role is fictional, and she has never worked for this agency, which does not exist. Nothing here is drawn from any real
 > employer, client or government system, and no real document, artifact or
 > data has been reproduced. This file is coursework, not a government record.
 
